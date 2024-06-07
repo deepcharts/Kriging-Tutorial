@@ -1,0 +1,12 @@
+﻿Date,Source,Site ID,POC,Daily Mean PM2.5 Concentration,Units,Daily AQI Value,Local Site Name,Daily Obs Count,Percent Complete,AQS Parameter Code,AQS Parameter Description,Method Code,Method Description,CBSA Code,CBSA Name,State FIPS Code,State,County FIPS Code,County,Site Latitude,Site Longitude
+5/1/24,AirNow,481671034,2,7,ug/m3 LC,39,Galveston 99th Street,1,100,88101,PM2.5 - Local Conditions,,,26420,"Houston-The Woodlands-Sugar Land, TX",48,Texas,167,Galveston,29.254474,-94.861289
+5/1/24,AirNow,482010024,4,9.6,ug/m3 LC,52,Houston Aldine,1,100,88101,PM2.5 - Local Conditions,,,26420,"Houston-The Woodlands-Sugar Land, TX",48,Texas,201,Harris,29.901036,-95.326137
+5/1/24,AirNow,482010046,1,11.4,ug/m3 LC,55,Houston North Wayside,1,100,88101,PM2.5 - Local Conditions,,,26420,"Houston-The Woodlands-Sugar Land, TX",48,Texas,201,Harris,29.828086,-95.284096
+5/1/24,AirNow,482010055,1,9.7,ug/m3 LC,52,Houston Bayland Park,1,100,88101,PM2.5 - Local Conditions,,,26420,"Houston-The Woodlands-Sugar Land, TX",48,Texas,201,Harris,29.695729,-95.499219
+5/1/24,AirNow,482010058,2,9.2,ug/m3 LC,51,Baytown,1,100,88101,PM2.5 - Local Conditions,,,26420,"Houston-The Woodlands-Sugar Land, TX",48,Texas,201,Harris,29.770698,-95.031232
+5/1/24,AirNow,482010066,1,7.8,ug/m3 LC,43,Houston Westhollow,1,100,88101,PM2.5 - Local Conditions,,,26420,"Houston-The Woodlands-Sugar Land, TX",48,Texas,201,Harris,29.723333,-95.635833
+5/1/24,AirNow,482011034,1,10.6,ug/m3 LC,54,Houston East,1,100,88101,PM2.5 - Local Conditions,,,26420,"Houston-The Woodlands-Sugar Land, TX",48,Texas,201,Harris,29.767997,-95.220582
+5/1/24,AirNow,482011035,3,11.4,ug/m3 LC,55,Clinton,1,100,88502,Acceptable PM2.5 AQI & Speciation Mass,,,26420,"Houston-The Woodlands-Sugar Land, TX",48,Texas,201,Harris,29.733726,-95.257593
+5/1/24,AirNow,482011050,1,8.4,ug/m3 LC,47,Seabrook Friendship Park,1,100,88101,PM2.5 - Local Conditions,,,26420,"Houston-The Woodlands-Sugar Land, TX",48,Texas,201,Harris,29.583047,-95.015544
+5/1/24,AirNow,482011052,2,12.1,ug/m3 LC,57,Houston North Loop,1,100,88101,PM2.5 - Local Conditions,,,26420,"Houston-The Woodlands-Sugar Land, TX",48,Texas,201,Harris,29.81453,-95.38769
+5/1/24,AirNow,483390078,1,9.9,ug/m3 LC,52,Conroe Relocated,1,100,88101,PM2.5 - Local Conditions,,,26420,"Houston-The Woodlands-Sugar Land, TX",48,Texas,339,Montgomery,30.350302,-95.425128
